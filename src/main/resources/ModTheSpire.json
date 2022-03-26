@@ -1,0 +1,10 @@
+{
+    "modid": "hermitrelicsstayonhermit",
+    "name": "${artifactId}",
+    "author_list": ["ocean"],
+    "description": "Keep your vanilla runs vanilla without being tainted by the Hermit.",
+    "version": "${project.version}",
+    "sts_version": "${SlayTheSpire.version}",
+    "mts_version": "${ModTheSpire.version}",
+    "update_json": "https://api.github.com/repos/OceanUwU/vanilla-curses/releases/latest"
+}
